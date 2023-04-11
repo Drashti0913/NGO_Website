@@ -134,7 +134,7 @@
                
 
             <center>
-                <a href="download.php?file=ngo" target="">Download PDF Now</a>
+                <a href="download.php?file="invoice" target="">Download PDF Now</a>
             </center>
     </section>
 
